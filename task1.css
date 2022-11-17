@@ -1,0 +1,42 @@
+.bgimg{
+    background-image: url("https://res.cloudinary.com/digdliiab/image/upload/v1668667931/white-interior-blur-blurred-chair_1203-4272_ez92ka.jpg");
+    height: 220vh;
+    background-size: cover;
+}
+.heading{
+    color: white;
+    padding: 25px;
+    font-family:'Times New Roman';
+    font-size:larger;
+    font-weight: bolder;
+    text-align: center;
+}
+.layoutcard{
+    background-color:rgb(197, 159, 63) ;
+    border-radius:8px ;
+    padding:25px ;
+    margin: 3em;
+}
+.two{
+    color:purple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+.three{
+    color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.branding{
+    width: 100px;
+    height:100px;
+}
+.brand{
+    width:70px;
+    height:80px;
+}
+.ik{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
